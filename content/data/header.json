@@ -1,19 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-0",
-                    "mt-0",
-                    "ml-0",
-                    "mb-0"
-                ]
-            }
-        },
-        "type": "ImageBlock",
-        "url": "/images/image-400x400.jpg"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
